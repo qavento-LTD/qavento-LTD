@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mohamed 👋
 
-<!--
-**qavento-LTD/qavento-LTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- High school student passionate about programming and software development.  
+- Skilled in **HTML, CSS, JavaScript, React, Vite, and C++**.  
+- Exploring **compiler design** and currently working on creating my own programming language.  
+- Aspiring **Full Stack Developer**, focused on turning ideas into real, deployable projects.  
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Vite  
+- **Backend:** Node.js (learning)  
+- **Programming Languages:** C++, JavaScript  
+- **Tools:** Git, GitHub, Termux  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Building a custom programming language & interpreter (`qavento`).  
+- Developing modern web apps using React & Vite.  
+
+## Goals
+- Master Full Stack Web Development.  
+- Contribute to open-source projects.  
+- Build impactful and scalable software solutions.  
+
+---
+⭐️ From [Mohamed](https://github.com/qavento-LTD/)
