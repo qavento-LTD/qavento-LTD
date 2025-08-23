@@ -1,25 +1,33 @@
-# Hi, I'm Mohamed 👋
+# Mohamed Khaled
 
-## About Me
-- High school student passionate about programming and software development.  
-- Skilled in **HTML, CSS, JavaScript, React, Vite, and C++**.  
-- Exploring **compiler design** and currently working on creating my own programming language.  
-- Aspiring **Full Stack Developer**, focused on turning ideas into real, deployable projects.  
+High-school developer focused on building real products from a mobile-first workflow. Skilled in HTML, CSS, JavaScript, React, Vite, and C++. Currently exploring compiler design and creating a custom programming language.
 
 ## Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Vite  
-- **Backend:** Node.js (learning)  
-- **Programming Languages:** C++, JavaScript  
-- **Tools:** Git, GitHub, Termux  
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
+![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Termux](https://img.shields.io/badge/Termux-000?style=for-the-badge&logo=gnu-bash)
 
-## Current Projects
-- Building a custom programming language & interpreter (`qavento`).  
-- Developing modern web apps using React & Vite.  
+## Projects
+- Custom programming language and interpreter (lexer, parser, runtime) — work in progress.  
+- Modern React applications with Vite — performance-focused and deployable.  
+- Selected repos:  
+  - nujz (language playground): https://github.com/qavento-LTD/nujz  
+  - react-starter: https://github.com/qavento-LTD/react-starter
 
-## Goals
-- Master Full Stack Web Development.  
-- Contribute to open-source projects.  
-- Build impactful and scalable software solutions.  
+## GitHub Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qavento-LTD&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qavento-LTD&layout=compact&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=qavento-LTD&hide_border=true)](https://git.io/streak-stats)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=qavento-LTD&no-bg=true&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-⭐️ From [Mohamed](https://github.com/qavento-LTD/)
+## Contact
+- Email: qavento.ltd@gmail.com  
+- YouTube: https://youtube.com/@qavento  
+- TikTok: https://www.tiktok.com/@qavento  
+- ORCID: https://orcid.org/0009-0004-9503-5878
