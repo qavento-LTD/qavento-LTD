@@ -7,7 +7,6 @@ High-school developer focused on building real products from a mobile-first work
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
