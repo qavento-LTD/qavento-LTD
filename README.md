@@ -13,11 +13,7 @@ High-school developer focused on building real products from a mobile-first work
 ![Termux](https://img.shields.io/badge/Termux-000?style=for-the-badge&logo=gnu-bash)
 
 ## Projects
-- Custom programming language and interpreter (lexer, parser, runtime) — work in progress.  
-- Modern React applications with Vite — performance-focused and deployable.  
-- Selected repos:  
-  - nujz (language playground): https://github.com/qavento-LTD/nujz  
-  - react-starter: https://github.com/qavento-LTD/react-starter
+Future projects are underway 🛠️⚙️
 
 ## GitHub Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qavento-LTD&show_icons=true&hide_border=true)
