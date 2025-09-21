@@ -1,8 +1,8 @@
-# 👋 مرحباً! أنا محمد خالد  
+# 👋 Hi! I'm Mohamed Khaled  
 
-أنا طالب في المرحلة الثانوية ومهتم بتطوير الويب.  
-أتعلم وأعمل على تقنيات مثل: **HTML, CSS, JavaScript, و C++**.  
-حاليًا بشتغل على تحسين مهاراتي وبناء مشاريع شخصية، وعندي **Portfolio** أعرض فيه شغلي.  
+I'm a high-school student passionate about **web development**.  
+I work with technologies like **HTML, CSS, JavaScript, and C++**.  
+Currently, I'm improving my skills, building personal projects, and maintaining my **Portfolio**.  
 
 ---
 
@@ -16,11 +16,11 @@
 
 ---
 
-## 🚀 أعمالي على GitHub  
-### آخر المشاريع
-[![My GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=portfolio&show_owner=true&theme=dark)](https://qavento-ltd.github.io/My-Portfolio/)  
+## 🚀 My Work on GitHub  
+### Featured Project  
+[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=portfolio&show_owner=true&theme=dark)](https://qavento-ltd.github.io/My-Portfolio/)  
 
-> 🔹 يمكنك استعراض باقي مشاريعي من هنا: [جميع المشاريع](https://github.com/qavento-LTD?tab=repositories)  
+> 🔹 Check out more projects here: [All Repositories](https://github.com/qavento-LTD?tab=repositories)  
 
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 📫 للتواصل  
+## 📫 Contact  
 - 📧 Email: [qavento.ltd@gmail.com](mailto:qavento.ltd@gmail.com)  
 - 🎥 YouTube: [@qavento](https://youtube.com/@qavento)  
 - 🎵 TikTok: [@qavento](https://www.tiktok.com/@qavento)  
@@ -39,4 +39,4 @@
 
 ---
 
-✨ هدفي أطور نفسي يومًا بعد يوم وأبني مشاريع حقيقية تفيد الناس وتطور مهاراتي.  
+✨ My goal is to keep learning, improve my skills every day, and build real projects that help others.
