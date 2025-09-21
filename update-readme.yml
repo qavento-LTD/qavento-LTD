@@ -1,0 +1,26 @@
+name: Update README with latest projects
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # يحدث كل 12 ساعة
+  workflow_dispatch:        # تقدر تشغله يدوي من Actions
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate GitHub Repos Section
+        uses: marketplacer/repo-card@v1
+        with:
+          username: qavento-LTD
+          limit: 4   # عدد المشاريع اللي يظهروا
+
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Updated projects list"
+          git push
