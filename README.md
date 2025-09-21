@@ -1,12 +1,11 @@
 # Mohamed Khaled
 
-High-school developer focused on building real products from a mobile-first workflow. Skilled in HTML, CSS, JavaScript, React, Vite, and C++. Currently exploring compiler design and creating a custom programming language.
+High-school developer focused on building real products from a mobile-first workflow. Skilled in HTML, CSS, JavaScript, and C++. Currently exploring compiler design and creating a custom programming language.
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
