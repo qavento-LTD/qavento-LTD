@@ -1,33 +1,39 @@
 # 👋 Hi! I'm Mohamed Khaled  
 
-I'm a high-school student passionate about **web development**.  
-I work with technologies like **HTML, CSS, JavaScript, and C++**.  
-Currently, I'm improving my skills, building personal projects, and maintaining my **Portfolio**.  
+🎓 I'm a high-school student passionate about **Web Development** and exploring **C++ programming**.  
+💻 Currently, I’m focusing on **improving my skills, building projects, and maintaining my Portfolio**.  
 
 ---
 
 ## 🛠️ Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github" />
+</p>
 
 ---
 
-## 🚀 My Work on GitHub  
-### Featured Project  
-[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=portfolio&show_owner=true&theme=dark)](https://qavento-ltd.github.io/My-Portfolio/)  
+## 🚀 Featured Project  
+<p align="center">
+  <a href="https://qavento-ltd.github.io/My-Portfolio/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=portfolio&theme=radical&show_owner=true" />
+  </a>
+</p>
 
-> 🔹 Check out more projects here: [All Repositories](https://github.com/qavento-LTD?tab=repositories)  
+🔹 See more projects here → [All Repositories](https://github.com/qavento-LTD?tab=repositories)  
 
 ---
 
 ## 📊 GitHub Overview  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qavento-LTD&show_icons=true&hide_border=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qavento-LTD&layout=compact&hide_border=true&theme=dark)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=qavento-LTD&hide_border=true&theme=dark)](https://git.io/streak-stats)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qavento-LTD&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qavento-LTD&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=qavento-LTD&theme=radical&hide_border=true" height="160"/>
+  </a>
+</p>
 
 ---
 
@@ -39,4 +45,4 @@ Currently, I'm improving my skills, building personal projects, and maintaining 
 
 ---
 
-✨ My goal is to keep learning, improve my skills every day, and build real projects that help others.
+✨ My goal is to **keep learning, improve my skills, and build impactful projects**.
