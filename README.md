@@ -15,7 +15,7 @@
 ## 🚀 Featured Project  
 <p align="center">
   <a href="https://qavento-ltd.github.io/Portfolio-Me-Free/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=Portfolio-Me-Free&theme=radical&show_owner=true" alt="Portfolio-Me-Free" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=qavento-LTD&repo=Portfolio-Me-Free&theme=radical&show_owner=true" alt="Portfolio-Me-Free" />
   </a>
 </p>
 
@@ -25,8 +25,8 @@
 
 ## 📊 GitHub Overview  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qavento-LTD&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qavento-LTD&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=qavento-LTD&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=qavento-LTD&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160"/>
 </p>
 
 <p align="center">
@@ -35,12 +35,17 @@
   </a>
 </p>
 
+<p align="center">
+  <!-- Badge لعدد الريبو -->
+  <img src="https://img.shields.io/badge/Repositories-10-blue?style=for-the-badge&logo=github" />
+</p>
+
 ---
 
 ## 📫 Contact  
 - 📧 Email: [qavento.ltd@gmail.com](mailto:qavento.ltd@gmail.com)  
 - 🎥 YouTube: [@qavento_youtube](https://youtube.com/@qavento)  
-- 🎵 LinkdIn: [@qavento_linkedin](https://www.linkedin.com/in/mohammed-khaled-abdullah-mahmoud?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🎵 LinkedIn: [@qavento_linkedin](https://www.linkedin.com/in/mohammed-khaled-abdullah-mahmoud?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 🔗 ORCID: [0009-0004-9503-5878](https://orcid.org/0009-0004-9503-5878)  
 
 ---
