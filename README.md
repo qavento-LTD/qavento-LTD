@@ -44,8 +44,8 @@
 
 ## 📫 Contact    
 - 📧 Email: [qavento.ltd@gmail.com](mailto:qavento.ltd@gmail.com)    
-- 🎥 YouTube: [@qavento_youtube](https://youtube.com/@qavento)    
-- 🎵 LinkedIn: [@qavento_linkedin](https://www.linkedin.com/in/mohammed-khaled-abdullah-mahmoud?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
+- 👨‍💻 Khamsat: [@qavento_youtube](https://khamsat.com/user/qavento)    
+- 💎 LinkedIn: [@qavento_linkedin](https://www.linkedin.com/in/mohammed-khaled-abdullah-mahmoud?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
 - 🔗 ORCID: [0009-0004-9503-5878](https://orcid.org/0009-0004-9503-5878)    
 
 ---
