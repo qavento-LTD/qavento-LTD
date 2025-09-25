@@ -15,7 +15,7 @@
 ## 🚀 Featured Project  
 <p align="center">
   <a href="https://qavento-ltd.github.io/My-Portfolio/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=portfolio&theme=radical&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=Portfolio-Me-Free&theme=radical&show_owner=true" alt="Portfolio-Me-Free" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 ## 📊 GitHub Overview  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qavento-LTD&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qavento-LTD&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qavento-LTD&layout=compact&theme=radical&hide_border=true&langs_count=6" height="220"/>
 </p>
 
 <p align="center">
