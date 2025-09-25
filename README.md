@@ -15,7 +15,7 @@
 ## 🚀 Featured Project  
 <p align="center">
   <a href="https://qavento-ltd.github.io/Portfolio-Me-Free/">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=qavento-LTD&repo=Portfolio-Me-Free&theme=metaDarck&show_owner=true" alt="Portfolio-Me-Free" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=qavento-LTD&repo=Portfolio-Me-Free&theme=metadark&show_owner=true" alt="Portfolio-Me-Free" />
   </a>
 </p>
 
@@ -25,13 +25,13 @@
 
 ## 📊 GitHub Overview  
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=qavento-LTD&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=qavento-LTD&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=qavento-LTD&show_icons=true&theme=metadark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=qavento-LTD&layout=compact&theme=metadark&hide_border=true&langs_count=6" height="160"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=qavento-LTD&theme=radical&hide_border=true" height="160"/>
+    <img src="https://streak-stats.demolab.com?user=qavento-LTD&theme=metadark&hide_border=true" height="160"/>
   </a>
 </p>
 
