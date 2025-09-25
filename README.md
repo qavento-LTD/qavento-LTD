@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Project  
 <p align="center">
-  <a href="https://qavento-ltd.github.io/My-Portfolio/">
+  <a href="https://qavento-ltd.github.io/Portfolio-Me-Free/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=Portfolio-Me-Free&theme=radical&show_owner=true" alt="Portfolio-Me-Free" />
   </a>
 </p>
