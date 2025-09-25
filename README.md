@@ -26,7 +26,7 @@
 ## 📊 GitHub Overview  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qavento-LTD&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qavento-LTD&layout=compact&theme=radical&hide_border=true&langs_count=6" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qavento-LTD&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160"/>
 </p>
 
 <p align="center">
