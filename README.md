@@ -17,6 +17,9 @@
   <a href="https://qavento-ltd.github.io/Portfolio-Me-Free/">  
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=Portfolio-Me-Free&theme=tokyonight&show_owner=true" alt="Portfolio-Me-Free" />  
   </a>  
+   <a href="https://qavento-ltd.github.io/E-commerce-store/">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=E-commerce-store&theme=tokyonight&show_owner=true" alt="E-commerce-store" />  
+  </a>  
 </p>  
 
 🔹 See more projects here → [All Repositories](https://github.com/qavento-LTD?tab=repositories)    
