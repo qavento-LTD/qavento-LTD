@@ -13,7 +13,7 @@
 ### 🌟 Who Am I?
 
 - 💻 **Self-taught Front-End Developer** focused on pixel-perfect UIs  
-- 📚 Currently mastering **TypeScript**, **React**, and **Tailwind CSS**  
+- 📚 Currently mastering **TypeScript**, **JavaScript**, and **Tailwind CSS**  
 - ⚡ Learning **C++** to build a rock-solid CS foundation  
 - 🌍 Building **real, usable apps** — not just tutorials  
 - 📩 Open to **freelance work**, **team projects**, and **code feedback**
@@ -40,9 +40,9 @@
 
 <div align="center">
   
-| [Portfolio-Me-Free](https://qavento-ltd.github.io/Portfolio-Me-Free/) | [E-commerce Store](https://qavento-ltd.github.io/E-commerce-store/) |
+| [Portfolio-Me-Free](https://qavento-ltd.github.io/mohamed/) | [E-commerce Store](https://qavento-ltd.github.io/E-commerce-store/) |
 |---|---|
-| ![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=Portfolio-Me-Free&theme=radical&border_radius=10) | ![E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=E-commerce-store&theme=radical&border_radius=10) |
+| ![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=mohamed&theme=radical&border_radius=10) | ![E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=E-commerce-store&theme=radical&border_radius=10) |
 
 | [To-Do List v2](https://github.com/qavento-LTD/ToDo-List-v2) | [Simple Weather App](https://github.com/qavento-LTD/Simple-Weather-App) |
 |---|---|
