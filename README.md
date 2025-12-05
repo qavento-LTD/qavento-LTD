@@ -23,13 +23,13 @@
 ### 🛠️ My Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,cpp,git,github,linux,vscode" height="40" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,cpp,git,github,linux,vscode" height="40" alt="Tech Stack" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Primary-React%20%7C%20TypeScript-3b82f6?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Primary-React%20%7C%20TypeScript-3b82f6?style=flat&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Styling-Tailwind%20CSS-06b6d4?style=flat&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/Workflow-Git%20%7C%20GitHub%20%7C%20VS%20Code-10b981?style=flat&logo=git" />
 </p>
@@ -40,9 +40,9 @@
 
 <div align="center">
   
-| [Portfolio](https://qavento-ltd.github.io/mohamed/) | [E-commerce Store](https://qavento-ltd.github.io/E-commerce-store/) |
+| [Portfolio](https://qavento-ltd.github.io/Portfolio-mohammed/) | [E-commerce Store](https://qavento-ltd.github.io/E-commerce-store/) |
 |---|---|
-| ![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=mohamed&theme=radical&border_radius=10) | ![E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=E-commerce-store&theme=radical&border_radius=10) |
+| ![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=Portfolio-mohammed&theme=radical&border_radius=10) | ![E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=E-commerce-store&theme=radical&border_radius=10) |
 
 | [To-Do List v2](https://github.com/qavento-LTD/ToDo-List-v2) | [Simple Weather App](https://github.com/qavento-LTD/Simple-Weather-App) |
 |---|---|
@@ -57,8 +57,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qavento-LTD&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qavento-LTD&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qavento-LTD&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&text_color=ffffff" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qavento-LTD&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&text_color=ffffff" width="60%" />
 </p>
 
 <p align="center">
