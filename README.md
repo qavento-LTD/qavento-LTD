@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/rocket.png?1531849430" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="40" />
   Hi, I'm Mohammed Khaled
-  <img src="https://media.tenor.com/7lO9n89-3YwAAAAi/programmer-coding.gif" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="40" />
 </h1>
 
 <p align="center">
@@ -13,10 +13,10 @@
 ### 🌟 Who Am I?
 
 - 💻 **Self-taught Front-End Developer** focused on pixel-perfect UIs  
-- 📚 Currently mastering **TypeScript**, **JavaScript**, and **Tailwind CSS**  
-- ⚡ Learning **C++** to build a rock-solid CS foundation  
-- 🌍 Building **real, usable apps** — not just tutorials  
-- 📩 Open to **freelance work**, **team projects**, and **code feedback**
+- 📚 Learning **TypeScript**, **JavaScript**, and **Tailwind CSS**  
+- ⚡ Exploring **C++** for a strong computer science foundation  
+- 🌍 Building **real, usable applications** — not just tutorials  
+- 📩 Open to **freelance projects**, **team collaborations**, and **code reviews**
 
 ---
 
@@ -40,7 +40,7 @@
 
 <div align="center">
   
-| [Portfolio-Me-Free](https://qavento-ltd.github.io/mohamed/) | [E-commerce Store](https://qavento-ltd.github.io/E-commerce-store/) |
+| [Portfolio](https://qavento-ltd.github.io/mohamed/) | [E-commerce Store](https://qavento-ltd.github.io/E-commerce-store/) |
 |---|---|
 | ![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=mohamed&theme=radical&border_radius=10) | ![E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=E-commerce-store&theme=radical&border_radius=10) |
 
@@ -50,11 +50,11 @@
 
 </div>
 
-> 🔍 **[Explore all 10+ public repos](https://github.com/qavento-LTD?tab=repositories)**
+> 🔍 **[Explore all my public repositories](https://github.com/qavento-LTD?tab=repositories)**
 
 ---
 
-### 📈 Live GitHub Insights
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qavento-LTD&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&text_color=ffffff" width="48%" />
@@ -72,7 +72,7 @@
 
 ---
 
-### 🏆 GitHub Profile Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=qavento-LTD&theme=radical&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
@@ -80,7 +80,7 @@
 
 ---
 
-### 💬 My Code Mantra
+### 💬 My Developer Mantra
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=ec4899&center=true&vCenter=true&width=700&lines=Write+less,+do+more;Clarity+over+cleverness;Ship+it+—+then+iterate" alt="Developer Mantra" />
