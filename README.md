@@ -23,16 +23,11 @@
 ### 🛠️ My Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,cpp,git,github,linux,vscode" height="40" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,cpp,git,github,linux,vscode&theme=light" />
 </p>
-
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Primary-JavaScript%20%7C%20TypeScript-3b82f6?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styling-Tailwind%20CSS-06b6d4?style=flat&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/Workflow-Git%20%7C%20GitHub%20%7C%20VS%20Code-10b981?style=flat&logo=git" />
-</p>
+
 
 ---
 
@@ -44,11 +39,7 @@
 |---|---|
 | ![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=portfolio-mohammed&theme=radical&border_radius=10) | ![E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=E-commerce-store&theme=radical&border_radius=10) |
 
-| [To-Do List v2](https://github.com/qavento-LTD/ToDo-List-v2) | [Simple Weather App](https://github.com/qavento-LTD/Simple-Weather-App) |
-|---|---|
-| ![To-Do](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=ToDo-List-v2&theme=radical&border_radius=10) | ![Weather](https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=Simple-Weather-App&theme=radical&border_radius=10) |
 
-</div>
 
 > 🔍 **[Explore all my public repositories](https://github.com/qavento-LTD?tab=repositories)**
 
@@ -65,17 +56,25 @@
   <img src="https://streak-stats.demolab.com?user=qavento-LTD&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
 </p>
 
+
 <p align="center">
-  <img src="https://img.shields.io/github/repo-count/qavento-LTD?label=Repositories&color=8b5cf6&style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=qavento-LTD&color=ec4899&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/qavento-LTD?label=Followers&style=for-the-badge&color=6366f1" />
+  <img src="https://komarev.com/ghpvc/?username=qavento-LTD&style=for-the-badge&color=ec4899" />
 </p>
 
+
+
+
 ---
+
+
+
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qavento-LTD&theme=radical&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=portfolio-mohammed&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qavento-LTD&repo=E-commerce-store&theme=radical" />
 </p>
 
 ---
@@ -83,8 +82,12 @@
 ### 💬 My Developer Mantra
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=ec4899&center=true&vCenter=true&width=700&lines=Write+less,+do+more;Clarity+over+cleverness;Ship+it+—+then+iterate" alt="Developer Mantra" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Write+less,+do+more;Clarity+over+cleverness;Ship+it+then+iterate"
+    alt="Developer Mantra"
+  />
 </p>
+
 
 ---
 
